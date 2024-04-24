@@ -28,8 +28,3 @@ After configuring the .env file, you can start the project by running:
 ```sh
 docker compose up
 ```
-
-## Application Screenshots
-![](./images/home.jpg)
-![](./images/campgrounds.jpg)
-![](./images/register.jpg)
